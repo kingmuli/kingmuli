@@ -15,6 +15,15 @@ Here’s a taste of what’s cooking in this repo:
 - **Experiments & Snippets**: Trying out new tech, libraries, and fun challenges.
 - **Learning in Public**: Sharing my journey failures, wins, and everything in between.
 
+**My current tech mix:**
+- **Frontend Focus**: JavaScript, TypeScript, HTML/CSS
+- **Backend & Scripting**: Python, Java, C
+- **Always learning** new frameworks and tools!
+
+![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=kingmuli&hide_border=true&theme=radical&layout=compact)
+
+---
+
 ---
 
 ### 🤝 Let’s Build Something Cool Together
