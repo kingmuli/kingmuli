@@ -21,6 +21,7 @@ Here’s a taste of what’s cooking in this repo:
 - **Always learning** new frameworks and tools!
 
 ![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=kingmuli&hide_border=true&theme=radical&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingmuli&show_icons=true)
 
 ---
 
